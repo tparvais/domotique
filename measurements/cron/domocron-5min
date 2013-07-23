@@ -1,0 +1,2 @@
+#!/bin/sh
+/root/domotique/lire_sondes.php 5

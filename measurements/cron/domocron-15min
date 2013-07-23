@@ -1,0 +1,5 @@
+#!/bin/sh
+#perl /root/domotique/electricite.pl 
+#perl /root/domotique/electricite.pl -g 
+#perl /root/domotique/vmc.pl
+/root/domotique/lire_sondes.php 15
